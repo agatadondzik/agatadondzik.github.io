@@ -1,0 +1,364 @@
+---
+---
+// add bootstrap variable settings here
+@import 'bootstrap';
+
+body {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+/////////////////////////////////// Navbar /////////////////////////////////////
+.navbar-custom {
+    background: #2A2C29;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    border: none;
+}
+
+.navbar-custom a:focus {
+    outline: none;
+}
+
+.navbar-custom .navbar-brand {
+    color: white;
+}
+
+.navbar-custom .navbar-brand.active,
+.navbar-custom .navbar-brand:active,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .navbar-brand:hover {
+    color: white;
+}
+
+.navbar-custom .navbar-nav {
+    letter-spacing: 1px;
+}
+
+.navbar-custom .navbar-nav li a {
+    color: white;
+}
+
+.navbar-custom .navbar-nav li a:hover {
+    color: #50E3C2;
+    outline: none;
+}
+
+.navbar-custom .navbar-nav li a:active,
+.navbar-custom .navbar-nav li a:focus {
+    color: #50E3C2;
+}
+
+.navbar-custom .navbar-nav li.active a {
+    color: white;
+    background: #2A2C29;
+}
+
+.navbar-custom .navbar-nav li.active a:active,
+.navbar-custom .navbar-nav li.active a:focus,
+.navbar-custom .navbar-nav li.active a:hover {
+    color: white;
+    background: #2A2C29;
+}
+
+.navbar-custom .navbar-toggle {
+    color: white;
+    text-transform: uppercase;
+    font-size: 16px;
+    border-width: 0;
+    border-color: #2A2C29;
+}
+
+.navbar-custom .navbar-toggle:focus,
+.navbar-custom .navbar-toggle:hover {
+    background-color: #2A2C29;
+    color: #2A2C29;
+    border-color: #2A2C29;
+}
+@media (min-width: 768px) {
+    .navbar-custom {
+        padding: 5px 0;
+        -webkit-transition: padding 0.3s;
+        -moz-transition: padding 0.3s;
+        transition: padding 0.3s;
+    }
+
+    .navbar-custom .navbar-brand {
+        font-size: 16px;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+
+    .navbar-custom.affix {
+        padding: 10px 0;
+    }
+
+    .navbar-custom.affix .navbar-brand {
+        font-size: 16px;
+    }
+}
+
+.navbar-brand img {
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: -5px;
+}
+
+.overlay {
+    height: 0;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #2A2C29FE; // FE for Transparency
+    overflow-y: hidden;
+    transition: 0.5s;
+}
+
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay a:focus,
+.overlay a:hover {
+    color: #50E3C2;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+@media screen and (max-height: 450px) {
+    .overlay {
+        overflow-y: auto;
+    }
+
+    .overlay a {
+        font-size: 20px;
+    }
+
+    .overlay .closebtn {
+        font-size: 40px;
+        top: 15px;
+        right: 35px;
+    }
+}
+/////////////////////////////////// Header /////////////////////////////////////
+header {
+    text-align: center;
+    color: white;
+    background-image: url("../assets/site/headerdrawings.png");
+    background-repeat: no-repeat;
+    background-size: cover; // 100% 100%;
+    background-color: #2A2C29;
+    min-height: 100vh;
+}
+
+header .container {
+    padding-top: 30vh;
+}
+
+header .welcome {
+    display: block;
+}
+
+header .hello {
+    color: #50E3C2;
+    font-size: 16px;
+    margin-bottom: 1.25em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+header .name {
+    font-size: 22px;
+    margin-bottom: 0;
+}
+
+header .agata img {
+    max-height: 20%;
+    margin-top: 5%;
+}
+/////////////////////////////////// Common /////////////////////////////////////
+.section-container {
+    width: 100%;
+    padding: 10% 30%;
+}
+
+.section-header {
+    text-align: center;
+    color: #50E3C2;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-bottom: 2em;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.section-dark {
+    background: #2A2C29;
+}
+
+.section-content {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 2em;
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 24px;
+}
+
+.section-content a {
+    color: #50E3C2;
+}
+
+.section-content-light {
+    color: white;
+}
+@media screen and (max-width: 960px) {
+    .section-container {
+        padding: 10% 20%;
+    }
+}
+@media screen and (max-width: 768px) {
+    .section-container {
+        padding: 10%;
+    }
+}
+//////////////////////////////////// Work //////////////////////////////////////
+* {
+    box-sizing: border-box;
+}
+/* force scrollbar */
+html {
+    overflow-y: scroll;
+}
+/* ---- grid ---- */
+.grid {
+    background: #DDD;
+}
+/* clear fix */
+.grid:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+/* ---- .grid-item ---- */
+.grid-item,
+.grid-sizer {
+    width: 25%;
+}
+.grid-item {
+    float: left;
+}
+.grid-item img {
+    display: block;
+    width: 100%;
+}
+@media screen and (max-width: 768px) {
+    .grid-item,
+    .grid-sizer {
+        width: 50%;
+    }
+}
+//////////////////////////////////// About /////////////////////////////////////
+
+//////////////////////////////////// Footer ////////////////////////////////////
+.section-footer {
+    width: 100%;
+    background: #2A2C29;
+    margin: 0;
+    padding: 10px;
+}
+
+.section-footer-content {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color: white;
+}
+
+//////////////////////////////////// Footer ////////////////////////////////////
+.project-container {
+    width: 100%;
+    padding: 10% 10%;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.project-header {
+    text-align: left;
+    color: #50E3C2;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-bottom: 2em;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+}
+
+.project-content {
+    text-align: left;
+    font-size: 18px;
+    margin-bottom: 2em;
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 24px;
+}
+
+.project-content span {
+    color: #AAAAAA;
+}
+
+.project-content a {
+    color: #50E3C2;
+}
+
+.project-head {
+    padding: 0;
+    margin: 0;
+    padding-top: 50px;
+}
+
+.project-head-img {
+    width: 100%;
+}
+
+.project-images{
+    width: 100%;
+    text-align: center;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.project-images-img {
+    width: 80%;
+    margin-bottom: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.max-width-no-overflow {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}

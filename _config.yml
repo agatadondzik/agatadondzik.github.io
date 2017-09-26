@@ -1,0 +1,30 @@
+title: Agata Dondzik
+email: agata@agatdondzik.com
+description: I am a Product Designer based in Melbourne, Australia with over 6 years of experience in the industry providing creative direction and digital solutions for mobile and web.
+baseurl: ""
+path: ""
+url:  "http://agatadondzik.com"
+
+dribble_username:  agatadondzik
+behance_username:  agatadondzik
+twitter_username: agatadondzik
+linkedin_username: agatadondzik
+flickr_username:  agatadondzik
+instagram_username:  agatadondzik
+
+
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+exclude:
+- README.md
+google_analytics: UA-49263151-1
+
+safe: true
+lsi: false
