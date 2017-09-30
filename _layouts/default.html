@@ -15,7 +15,7 @@
                         <p class="hello">Hello.</p>
                         <p class="name">My name is {{ site.title }}.</p>
                         <p class="name">I'm a Product Designer.</p>
-                        <p class="agata"><img src="assets/site/agata.png" alt="Agata"><p>
+                        <p class="agata"><img src="assets/site/agata.png" alt="Agata"></p>
                     </div>
                 </div>
             </div>
@@ -23,11 +23,11 @@
     </header>
 
     <div id="work" class="container section-container">
-        <h1 class="section-header">My Work.<h1>
+        <h1 class="section-header">My Work.</h1>
         <p class="section-content">Check out some of my projects.</p>
     </div>
     <div class="grid">
-        <div class="grid-sizer"></div>
+        <div class="grid-sizer">
             {% for image in site.static_files %}
                 {% if image.path contains 'projects/covers' %}
                     <div class="grid-item">
@@ -41,7 +41,7 @@
     </div>
 
     <div id="about" class="container section-container">
-        <h1 class="section-header">About.<h1>
+        <h1 class="section-header">About.</h1>
         <div class="content">
             <p class="section-content">{{ site.description }}</p>
             <p class="section-content">
@@ -54,7 +54,7 @@
     </div>
 
     <div id="contact" class="container section-container section-dark">
-        <h1 class="section-header">Contact.<h1>
+        <h1 class="section-header">Contact.</h1>
         <div class="content">
             <p class="section-content section-content-light">If you're interested in a new project, collaboration, or just want to have a coffee, don't hesitate to shoot me an email.</p>
             <p class="section-content"><a>agata (at) agatadondzik.com</a></p>
@@ -63,25 +63,7 @@
 
     {% include footer.html %}
 
-    <script src="{{ site.path }}/js/imagesloaded.pkgd.min.js"></script>
-    <script src="{{ site.path }}/js/masonry.pkgd.min.js"></script>
-    <script type="text/javascript">
-        // init Masonry after all images have loaded
-        var $grid = $('.grid').imagesLoaded( function() {
-          $grid.masonry({
-            itemSelector: '.grid-item',
-            percentPosition: true,
-            columnWidth: '.grid-sizer'
-          });
-        });
-        function openNav() {
-            document.getElementById("myNav").style.height = "100%";
-        }
-        function closeNav() {
-            document.getElementById("myNav").style.height = "0%";
-        }
-        $('.open').removeClass('open');
-    </script>
+    {% include scripts.html %}
 
 </body>
 

@@ -12,16 +12,16 @@
         <div id="navbar" class="collapse navbar-collapse navbar-right">
             <ul class="nav navbar-nav">
                 <li><a href="{{ site.url }}#work">My Work.</a></li>
-                <li><a href="{{ site.url }}#about">About.</a><li>
+                <li><a href="{{ site.url }}#about">About.</a></li>
                 <li><a href="{{ site.url }}#contact">Contact.</a></li>
             </ul>
         </div>
         <div id="myNav" class="overlay">
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
             <div class="overlay-content">
-                <a href="#work" onclick="closeNav()">My Work.</a>
-                <a href="#about" onclick="closeNav()">About.</a>
-                <a href="#contact" onclick="closeNav()">Contact.</a>
+                <a href="{{ site.url }}#work" onclick="closeNav()">My Work.</a>
+                <a href="{{ site.url }}#about" onclick="closeNav()">About.</a>
+                <a href="{{ site.url }}#contact" onclick="closeNav()">Contact.</a>
             </div>
         </div>
         <!--/.nav-collapse -->

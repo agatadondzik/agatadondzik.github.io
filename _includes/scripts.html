@@ -1,0 +1,19 @@
+<script src="{{ site.path }}/js/imagesloaded.pkgd.min.js"></script>
+<script src="{{ site.path }}/js/masonry.pkgd.min.js"></script>
+<script type="text/javascript">
+    // init Masonry after all images have loaded
+    var $grid = $('.grid').imagesLoaded( function() {
+      $grid.masonry({
+        itemSelector: '.grid-item',
+        percentPosition: true,
+        columnWidth: '.grid-sizer'
+      });
+    });
+    function openNav() {
+        document.getElementById("myNav").style.height = "100%";
+    }
+    function closeNav() {
+        document.getElementById("myNav").style.height = "0%";
+    }
+    $('.open').removeClass('open');
+</script>
