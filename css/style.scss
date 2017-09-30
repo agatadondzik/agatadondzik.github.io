@@ -125,10 +125,11 @@ body {
 }
 
 .overlay a {
-    padding: 8px;
+    padding: 10px;
     text-decoration: none;
-    font-size: 36px;
+    font-size: 32px;
     color: white;
+    font-weight: 300;
     display: block;
     transition: 0.3s;
 }
@@ -164,6 +165,7 @@ header {
     text-align: center;
     color: white;
     background-image: url("../assets/site/headerdrawings.png");
+    margin-top: 20px;
     background-repeat: no-repeat;
     background-size: cover; // 100% 100%;
     background-color: #2A2C29;
@@ -191,10 +193,10 @@ header .name {
     margin-bottom: 0;
 }
 
-header .agata img {
-    max-height: 20%;
-    margin-top: 5%;
+.welcome img {
+    margin-top: 7%;
 }
+
 /////////////////////////////////// Common /////////////////////////////////////
 .section-container {
     width: 100%;
@@ -289,14 +291,14 @@ html {
 
 .section-footer-content {
     text-align: center;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 300;
     letter-spacing: 1px;
     line-height: 24px;
-    color: white;
+    color: grey;
 }
 
-//////////////////////////////////// Footer ////////////////////////////////////
+//////////////////////////////////// Project ////////////////////////////////////
 .project-container {
     width: 100%;
     padding: 10% 10%;
@@ -309,7 +311,7 @@ html {
     color: #50E3C2;
     text-transform: uppercase;
     font-size: 16px;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
     font-weight: 300;
     letter-spacing: 1px;
 
@@ -336,6 +338,7 @@ html {
     padding: 0;
     margin: 0;
     padding-top: 50px;
+    overflow-x: hidden;
 }
 
 .project-head-img {
@@ -361,4 +364,32 @@ html {
     width: 100%;
     margin: 0;
     padding: 0;
+}
+
+.project-container-images {
+    width: 100%;
+    padding: 10% 10%;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+@media (max-width: 768px) {
+    
+    .project-container-images {
+        padding: 0%;
+    }
+    
+    .project-images-img {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    
+    .project-head-img {
+        width: 140%;
+        margin-left:-20%;
+        margin-right: -20%;
+        overflow-x: hidden;
+        
+    }
 }
