@@ -12,19 +12,23 @@ linkedin_username: agatadondzik
 flickr_username:  agatadondzik
 instagram_username:  agatadondzik
 
-
 markdown: kramdown
-gems:
+
+plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jemoji
 
 sass:
   sass_dir: css
   style:    expanded
 
 exclude:
-- README.md
+  - README.md
+
 google_analytics: UA-49263151-1
 
 safe: true
+
 lsi: false
+
