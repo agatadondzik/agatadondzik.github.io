@@ -455,6 +455,15 @@ html {
     margin-left: -60%;
 }
 
+@media (max-width: 768px) {
+    
+    .project-content-fancy-img {
+        display: none;
+        margin: 0%;
+    }
+
+}
+
 ul {
     display: table;
     padding-left: 18px;
