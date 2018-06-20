@@ -19,13 +19,13 @@ title: Sharefolio App
         <div class="row">
             <div class="col-sm-1 col-md-1"></div>
             <div class="col-sm-3 col-md-3">
-                <h1 class="project-header">Project.</h1>
+                <h1 class="project-header">Client.</h1>
                 <p class="project-content">Sharefolio</p>
             </div>
             <div class="col-sm-1 col-md-1"></div>
             <div class="col-sm-6 col-md-6">
-                <h1 class="project-header">Overview.</h1>
-                <p class="project-content"><span>Sharefolio is a startup set out to create a finance app that connects investors & listed companies.</span></p>
+                <h1 class="project-header">Project Overview.</h1>
+                <p class="project-content">Sharefolio is a startup set out to create a finance app that connects investors & listed companies.</p>
                 <h1 class="project-header">Challenge.</h1>
                 <p class="project-content">There’s a need for investors to connect with potential partners, share their activities and keep up with industry news, but there’s no channel that would efficiently facilitate it.</p>
                 <h1 class="project-header">My Role.</h1>

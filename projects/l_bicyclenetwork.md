@@ -45,7 +45,7 @@ title: Bicycle Network
             </p>
             <h1 class="project-header">My role.</h1>
             <p class="project-content">
-                I was a lead designer responsible for developing a new information architecture and content strategy as well as defining users and their goals. I also led design execution of the the project including sketching, prototyping and assisted during implementation.
+                I was a lead designer responsible for developing a new information architecture and content strategy as well as defining users needs. I also led design execution of the project including sketching, prototyping and assisted during implementation.
             </p>
         </div>
         <div class="col-sm-1 col-md-1"></div>
