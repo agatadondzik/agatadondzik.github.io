@@ -20,7 +20,7 @@ title: Sharefolio App
             <div class="col-sm-1 col-md-1"></div>
             <div class="col-sm-3 col-md-3">
                 <h1 class="project-header">Client.</h1>
-                <p class="project-content">Sharefolio</p>
+                <p class="project-content">Sharefolio.</p>
             </div>
             <div class="col-sm-1 col-md-1"></div>
             <div class="col-sm-6 col-md-6">

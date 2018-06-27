@@ -20,7 +20,7 @@ title: MCRI
         <div class="col-sm-1 col-md-1"></div>
         <div class="col-sm-3 col-md-3">
             <h1 class="project-header">Client.</h1>
-            <p class="project-content">The Murdoch Children's Research Institute (MCRI) </p>
+            <p class="project-content">The Murdoch Children's Research Institute (MCRI).</p>
         </div>
         <div class="col-sm-1 col-md-1"></div>
         <div class="col-sm-6 col-md-6">
@@ -29,13 +29,13 @@ title: MCRI
                 The MCRI is the largest child health research institute in Australia and one of the top five worldwide that specialises in discoveries that transform child health. 
             </p>
             <p class="project-content">
-                They decided to create online and offline Christmas Appeal campaign to reach broader audience and raise funds for their research projects.
+                The client decided to create an online and offline Christmas campaign to reach broader audience and raise funds for their research projects.
             <h1 class="project-header">My role.</h1>
             <p class="project-content">
                 Design of the website and social media assets, and illustrations. 
             </p>
             <p class="project-content">
-                Rather than presenting outcomes of the entire campaign I’d like to share illustrations I created to support overarching idea to <strong>“Help us fight these mischief makers this Christmas. Donate.” </strong>After a successful donation each character that represent different disease is locked in a cage.
+                Rather than presenting outcomes of the entire campaign I’d like to share illustrations I created to support overarching idea to <strong>“Help us fight these mischief makers this Christmas. Donate.” </strong>After a successful donation each character that represents different disease is locked in a cage.
             </p>
         </div>
         <div class="col-sm-1 col-md-1"></div>

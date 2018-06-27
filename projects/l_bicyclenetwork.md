@@ -20,7 +20,7 @@ title: Bicycle Network
         <div class="col-sm-1 col-md-1"></div>
         <div class="col-sm-3 col-md-3">
             <h1 class="project-header">Client.</h1>
-            <p class="project-content">Bicycle Network</p>
+            <p class="project-content">Bicycle Network.</p>
             <img class="project-content-fancy-img" src="/assets/projects/bicyclenetwork_/a_bn_a.png" alt="image" />
         </div>
         <div class="col-sm-1 col-md-1"></div>

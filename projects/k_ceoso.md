@@ -20,7 +20,7 @@ title: CEO Sleepout
         <div class="col-sm-1 col-md-1"></div>
         <div class="col-sm-3 col-md-3">
             <h1 class="project-header">Client.</h1>
-            <p class="project-content">The Vinnies CEO Sleepout</p>
+            <p class="project-content">The Vinnies CEO Sleepout.</p>
             <img class="project-content-fancy-img" src="/assets/projects/ceoso_/a_ceoso_a.png" alt="image" />
         </div>
         <div class="col-sm-1 col-md-1"></div>

@@ -20,7 +20,7 @@ title: BlueJay Music App
         <div class="col-sm-1 col-md-1"></div>
         <div class="col-sm-3 col-md-3">
             <h1 class="project-header">Client.</h1>
-            <p class="project-content">BlueJay Music App</p>
+            <p class="project-content">BlueJay Music App.</p>
         </div>
         <div class="col-sm-1 col-md-1"></div>
         <div class="col-sm-6 col-md-6">
@@ -37,7 +37,7 @@ title: BlueJay Music App
             </p>
             <h1 class="project-header">Approach.</h1>
             <p class="project-content">
-                Create a simple and cohesive digital experience fast in order to validate assumptions and iterate. In order to achieve it I applied the 5-day sprint methodology and performed a number of activities from “Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp from Google Ventures.
+                Create a simple and cohesive digital experience fast in order to validate assumptions and iterate. In order to achieve it I applied the 5-day sprint methodology and performed a number of activities from “Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days" by Jake Knapp from Google Ventures.
             </p>
             <h1 class="project-header">My Role.</h1>
             <p class="project-content">
