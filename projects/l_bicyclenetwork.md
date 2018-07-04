@@ -58,11 +58,11 @@ title: Bicycle Network
         
         <img class="section-numbers" style="margin-top: 0%" src="/assets/projects/bicyclenetwork_/1-discovery.jpg" alt="image" />
         <p class="project-content-verbose">
-            One of the most interesting activities throughout this phase was learning about different types of riders, their divergent safety concerns and confidence on the road. After analysing their behaviour and running a prioritisation session we agreed on our main target audience.
+            One of the most interesting activities throughout this phase was learning about different types of riders, their divergent safety concerns and confidence on the road. After analysing provided data, user behaviour and running a prioritisation session we agreed on our main target audience and their goals.
         <img class="project-images-img" src="/assets/projects/bicyclenetwork_/b_bn_b.jpg" alt="image" />
         </p>
         <p class="project-content-verbose">
-            I believe that exceptional experiences are build and validated by the in-depth understanding of the audience. I’m a cyclist, commuting on my bike everyday and actively advocating for the safety on the road but I’ve never participated in a cycling event. I decided to register for one of the main events organised by Bicycle Network and cycle a 100km route around the bay. That was a great challenge but also an opportunity to fully understand the registration process, communication with the organisers before, during and after the event as well as talk to participants and members of the community.
+            I believe that exceptional experiences are built and validated by the in-depth understanding of the audience. I’m a cyclist, commuting on my bike everyday and actively advocating for the safety on the road but I’ve never participated in a cycling event. I decided to register for one of the main events organised by Bicycle Network and cycle a 100km route around the bay. That was a great challenge but also an opportunity to fully understand the registration process, communication with the organisers before, during and after the event as well as talk to participants and members of the community.
         </p>
         <img class="project-images-img" src="/assets/projects/bicyclenetwork_/c_bn_c.jpg" alt="image" />
         <p class="project-content-verbose">

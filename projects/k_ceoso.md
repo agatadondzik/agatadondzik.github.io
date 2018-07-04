@@ -74,7 +74,7 @@ title: CEO Sleepout
         
         <img class="section-numbers" style="margin-top: 0%" src="/assets/projects/ceoso_/1-discovery.jpg" alt="image" />
         <p class="project-content-verbose">
-            <strong>As a first step I performed a number of activities to help us immerse in the project, understand the context, participants goals and the environment.</strong>        
+            <strong>As a first step I performed a number of activities to help us immerse in the project, understand the context and identify participants goals.</strong>        
         </p>
         <p class="project-content-verbose">
             Firstly, our team run the Business Context Workshop with the client to understand the background and business context behind the CEO Sleepout website and Event Coordinator workshop to unfold insights on how the website is managed from an administrative point of view and identify any pain points.
@@ -137,26 +137,30 @@ title: CEO Sleepout
             <strong>High fidelity, feedback from stakeholder, testing.</strong>    
         </p>
         <p class="project-content-verbose">
-            That’s when I started to make it all real and bring the ideas to life. We ensured the team is in the loop and run fortnightly showcases where all national and state teams could participate and see the progress on the designs.
+            That’s when I started to make it all real by bringing the ideas to life. We ensured the team is in the loop and run fortnightly showcases where all national and state teams could participate and see the progress on the designs.
         </p>
         <img class="project-images-img" src="/assets/projects/ceoso_/h_ceoso_h.gif" alt="image" />
         <p class="project-content-verbose">
             <strong>Donation process.</strong>
         </p>
         <p class="project-content-verbose">
-            We’ve created easily accesible donation module that exists on the homepage as well as on the participant page. It presents tangible targets and suggests a preferred donation.
+            We’ve created easily accessible donation module that exists on the homepage as well as on the participant page. It presents tangible targets and suggests a preferred donation.
         </p>
         <p class="project-content-verbose">
-            Additionally, donation page includes information about where you money goes and stories from real people who have suffered homelessness sharing their struggles and how Vinnies has supported them throughout their journey.
+            Additionally, donation page includes information about where your money goes and stories from real people who have suffered homelessness sharing their struggles and how Vinnies has supported them throughout their journey.
         </p>
         <img class="project-images-img" src="/assets/projects/ceoso_/i_ceoso_i.jpg" alt="image" />
         <p class="project-content-verbose">
             <strong>Fundraising process.</strong>
         </p>
         <p class="project-content-verbose">
-            We’ve created a dashboard that lets participants track their donations, update their profile and access resources to support their fundraising. They can view their previous donations, read personal notes from donors, adjust their target, and many more.
+            During the discovery session we've defined the competitiveness as important aspect of fundraising and a great motivation for the CEOs. In order to address it, I introduced a leaderboard and a self-donation during registration process.
         </p>
-        <img class="project-images-img" src="/assets/projects/ceoso_/j_ceoso_j.png" alt="image" />
+        <img class="project-images-img" src="/assets/projects/ceoso_/j_ceoso_j.jpg" alt="image" />
+        <p class="project-content-verbose">
+            On top of that, every participant gets an access to their dashboard where they can track donations, update profile and access resources to support their fundraising efforts. Platform allows to view their previous donations, read personal notes from donors, adjust their target, and many more.
+        </p>
+        <img class="project-images-img" src="/assets/projects/ceoso_/k_ceoso_k.jpg" alt="image" />
         <p class="project-content-verbose">
             Check out <a target="_blank" href="https://inlight.com.au/projects/vinnies-ceo-sleepout">Inlight’s case study.</a>
         </p>
