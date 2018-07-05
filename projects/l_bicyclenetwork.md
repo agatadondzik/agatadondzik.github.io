@@ -100,7 +100,7 @@ title: Bicycle Network
        <img class="project-images-img" src="/assets/projects/bicyclenetwork_/h_bn_h.jpg" alt="image" />
        <img class="project-images-img" src="/assets/projects/bicyclenetwork_/i_bn_i.jpg" alt="image" />
         <p class="project-content-verbose">
-            Check out <a target="_blank" href="https://inlight.com.au/projects/bicycle-network">Inlight’s case study.</a>
+            Bicycle Network project was created by Inlight. Check out <a target="_blank" href="https://inlight.com.au/projects/bicycle-network">Inlight’s case study.</a>
         </p>
     </div>
 </div>

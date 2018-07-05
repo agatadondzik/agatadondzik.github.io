@@ -162,7 +162,7 @@ title: CEO Sleepout
         </p>
         <img class="project-images-img" src="/assets/projects/ceoso_/k_ceoso_k.jpg" alt="image" />
         <p class="project-content-verbose">
-            Check out <a target="_blank" href="https://inlight.com.au/projects/vinnies-ceo-sleepout">Inlight’s case study.</a>
+            The Vinnies CEO Sleepout project was created by Inlight. Check out <a target="_blank" href="https://inlight.com.au/projects/vinnies-ceo-sleepout">Inlight’s case study.</a>
         </p>
     </div>
 </div>

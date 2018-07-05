@@ -29,7 +29,7 @@ title: BlueJay Music App
                 BlueJay Music lets you host your own live public radio shows directly from your phone, building and interact with your followers. You can also keep things smaller and share your favourite playlists in real-time while chatting with your friends. Or follow your favourite curators, artists, and friends to discover new music, hear forgotten gems, and listen to the songs they love with them.
             </p>
             <p class="project-content">
-                A rapid change in music consumption habits and highly competitive streaming music industry made it clear for BlueJay Music that existing solution had to be improved in order to create more engaging experience for the users and meet their expectations.
+                A rapid change in music consumption habits and highly competitive streaming music industry made it clear for BlueJay Music that existing solution had to be improved in order to create more engaging experience for the users.
             </p>
             <h1 class="project-header">Challenge.</h1>
             <p class="project-content">

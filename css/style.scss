@@ -343,7 +343,6 @@ html {
     margin-bottom: 1em;
     font-weight: 300;
     letter-spacing: 1.2px;
-
 }
 
 .project-content {
@@ -560,4 +559,40 @@ ul.dashed > li:before {
         margin-top: 2em;
         margin-bottom: 4em;
     }
+}
+
+.overlays {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #2A2C29;
+}
+
+.overlays:hover {
+  opacity: 0.9;
+}
+
+.text {
+  color: white;
+  font-size: 18px;
+  letter-spacing: 1px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.text span{
+font-size: 10px;
+text-transform: uppercase;
+letter-spacing: 1px;
+line-height: 0px;
 }
