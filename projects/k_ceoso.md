@@ -27,10 +27,10 @@ title: CEO Sleepout
         <div class="col-sm-6 col-md-6">
             <h1 class="project-header">Project Overview.</h1>
             <p class="project-content">
-                <strong>Simplify the entire fundraising process.</strong>
+                <strong>Simplifying the entire fundraising process.</strong>
             </p>
             <p class="project-content">
-                The St Vincent the Paul Sociaty (Vinnies) CEO Sleepout is an exclusive event that brings together leaders in business, community and government. Participants sleep without shelter on one of the longest nights of the year to raise awareness, fundraise and help change the lives of Australians experiencing homelessness.
+                The St Vincent the Paul Sociaty (Vinnies) CEO Sleepout is an exclusive event that brings together leaders in business, community and government. Participants sleep without shelter on one of the longest nights of the year to raise awareness, fundraise, and help change the lives of Australians experiencing homelessness.
             </p>
             <p class="project-content">
                 The event has become a great success over the past few years and has established itself as one of the most iconic fundraising events in Australia raising over 5.6 million dollars for people experiencing homelessness last year.
@@ -40,22 +40,23 @@ title: CEO Sleepout
             </p>
             <h1 class="project-header">Challenge.</h1>
             <p class="project-content">
-                Current fundraising process is complicated. The organisation has recognised the need to develop more compelling and unique experience that better engages with participants and donors.
+                The current fundraising process is complicated. The organisation has recognised the need to develop a more compelling and unique experience that better engages with participants and donors.
             </p>
             <h1 class="project-header">Approach.</h1>
             <p class="project-content">
-                In order to understand exisiting limitations, user needs and opportunities I performed a number of activities including interviews with participants (CEOs) and event coordinators as well as number of workshops and ideation sessions with the client.
-            </p>
-            <p class="project-content">
-                We decided to build our solution on top of an exisiting crowdfunding platform called Funraisin. We needed to understand its functionality to fully leverage its potential and build a solution that is tailored to the event.
+                We decided to build our solution on top of an existing crowdfunding platform called Funraisin. We needed to understand its functionality to fully leverage its potential and build a solution that is tailored to the event.
             </p>
             <h1 class="project-header">My role.</h1>
             <p class="project-content">
-                I led the discovery and research phase, helped prioritise functionality and content, facilitated ideation sessions and workshops as well as led design execution of the project including sketching, prototyping and producing final designs. Additionally, I presented works to gain buy‐in from stakeholders throughout the project lifecycle.
+                I led the discovery and research phase, helped prioritise functionality and content, facilitated ideation sessions and workshops as well as led design execution of the project including sketching, prototyping, and producing final designs. Additionally, I presented works to gain buy‐in from stakeholders throughout the project lifecycle.
             </p>
            <h1 class="project-header">Solution.</h1>
             <p class="project-content">
-                User centric digital solution that creates seamless experience by removing friction points during donation process and simplifies signups.
+                User centric digital solution that creates seamless experience by removing friction points during donation process and simplifies sign ups.
+            </p>
+            <h1 class="project-header">Measure success.</h1>
+            <p class="project-content">
+                How would we validate how successful the solution is? By comparing the donation amount, conversion rate, and number of transactions. 
             </p>
             <p class="project-content">
                 <strong>Results:</strong><br>
@@ -72,57 +73,105 @@ title: CEO Sleepout
 <div id="#projectImages" class="container project-container-images">
     <div class="project-images">
         
-        <img class="section-numbers" style="margin-top: 0%" src="/assets/projects/ceoso_/1-discovery.jpg" alt="image" />
+        <br>
         <p class="project-content-verbose">
-            <strong>As a first step I performed a number of activities to help us immerse in the project, understand the context and identify participants goals.</strong>        
+            <strong>Introduction.</strong>
+        </p>       
+        <p class="project-content-verbose">
+            The process I followed during this project is divided into three phases: discovery, ideation and implementation. Throughout phase one I learnt everything I can about the users and business context. During phase two I established a framework, structured functionality and sketched potential ideas. And lastly made it all happen during the implementation phase and validated any remaining assumptions.
+        </p>
+        <img class="section-numbers" style="margin-top: 10%" src="/assets/projects/ceoso_/1-discovery.jpg" alt="image" />
+        <p class="project-content-verbose">
+            <strong>Understanding project and business context.</strong>
+        </p> 
+        <p class="project-content-verbose">
+            It was crucial to gain in-depth understanding of the business and define an approach right at the start of the project. That's why we ran the Business Context Workshop with the client. It's a great way to kick off the project in a collaborative manner as well as quickly identify opportunities and constraints. In addition to that, we talked to event coordinators to unpack insights on how the website is managed from an administrative point of view.
         </p>
         <p class="project-content-verbose">
-            Firstly, our team run the Business Context Workshop with the client to understand the background and business context behind the CEO Sleepout website and Event Coordinator workshop to unfold insights on how the website is managed from an administrative point of view and identify any pain points.
-        </p>
-        <p class="project-content-verbose">
-            Secondly, I interviewed around twenty CEOs to learn what motivates them to participate in the event, how they use the website and what could be improved. That was very insightful activity. I performed a user centric UX/UI review on the exiting website in order to identify what’s working well and where improvements can be made as well as a global best practice review to explore inspirational examples of online fundraising / event-based websites and apps from around the world.
+            I performed a user centric UX/UI review on the existing website in order to identify what’s working well and where improvements can be made. I also conducted a global best practice review to explore inspirational examples of online fundraising / event-based websites and apps from around the world.
         </p>
         <img class="project-images-img" src="/assets/projects/ceoso_/b_ceoso_b.jpg" alt="image" />
         <p class="project-content-verbose">
-            To gain better in-depth understanding our team decided to participate in the event and sleep rough on the longest night of the year. It was tough but extremely insightful since we got the opportunity to hear stories from people who have suffered homelessness and engaged with participants to understand their motivations.
+            <strong>Understanding users, their goals, and needs.</strong>
+        </p> 
+        <p class="project-content-verbose">
+            There's no better way to learn about the users than talking directly to them. I jumped on the phone and performed 20mins interviews with around twenty CEOs to learn what motivates them to participate in the event, how they use the website, and what could be improved. I consolidated all my findings to later on feed it into user flows and accurately identify pain points. 
+        <p class="project-content-verbose">    
+            That activity unfolded insights and sparked ideas I would never be able to identify by looking at data. That's why I decided to register for the event itself and gain better understanding of the issue.
+        </p> 
+        <p class="project-content-verbose">
+            My team raised $3,000 by reaching out to our network, friends &amp; family and slept rough on the longest night of the year. It was tough but extremely insightful. Besides understanding the fundraising journey, I recognized the core of the problem, heard stories from people who have suffered homelessness and engaged with participants to identify their motivations. 
         </p>
         <img class="project-images-img" src="/assets/projects/ceoso_/c_ceoso_c.jpg" alt="image" />
         <p class="project-content-verbose">
-            <strong>Selected key insights from the discovery phase:</strong>  
+            <strong>Selected key insights from the discovery phase.</strong>  
+        </p>
+        <p class="project-content-verbose">
+            CEOs:  
         </p>
         <ul class="project-content-verbose project-content dashed">
-            <li>CEOs find the registration process complicated and look for a quick way to approach their network.</li>
-            <li>They are motivated by the competition and found real stories from people who have experienced homelessness very powerful.</li>
-            <li>They find it difficult to track their donations.</li>
-            <li>Donors don’t know what the “standard” donation amount is.</li>
-            <li>National vs state coordination is a challenge.</li>
-            <li>Donation process is lacking important info and where the donations go.</li>
+            <li>Find the registration process complicated.</li>
+            <li>Are motivated by the competition.</li>
+            <li>Find it difficult to track their donations.</li>
+            <li>Look for a quick way to approach their network.</li>
+            <li>Find real stories from people who have experienced homelessness very powerful.</li>
         </ul>
         <p class="project-content-verbose">
-            After gathering all the insights and inputs I synthesised the findings in order to define themes and opportunities and built journey maps. At the end of this phase I defined a clear hypothesis and had enough understanding to generate potential ideas.
+            Donors:  
+        </p>
+        <ul class="project-content-verbose project-content dashed">
+            <li>Don’t know what the “standard” donation amount is.</li>
+            <li>Don't know where the donations go.</li>
+        </ul>
+        <p class="project-content-verbose">   
+            As a final step, I synthesised the findings in order to define themes and opportunities and built journey maps. At the end of this phase I defined a clear hypothesis and had enough understanding to generate potential ideas.
         </p>
         <img class="project-images-img" src="/assets/projects/ceoso_/d_ceoso_d.jpg" alt="image" />
         
         <img class="section-numbers" src="/assets/projects/ceoso_/2-ideation.jpg" alt="image" />
         <p class="project-content-verbose">
-            At this phase, I focused on creating a framework and wireframes to share the vision, communicate design principals and content strategy. This was very helpful to gain alignment, justify design decisions and prioritise content.
+            At this phase, I focused on creating a framework and wireframes to share the vision, communicate design principles and content strategy. That was very helpful to gain alignment, structure functionality, and prioritise content.
         </p>
         <p class="project-content-verbose">
-            The key objective was to balance customer and business goals while still keeping it feasible.        
+            <strong>Building content structure.</strong>
         </p>
-        <img class="project-images-img-25" src="/assets/projects/ceoso_/e_ceoso_e.jpg" alt="image" />
         <p class="project-content-verbose">
-            The first step I took to define a new information architecture was mapping out all the content. I teamed up with a copywriter and laveraged learnings from the discovery phase, user goals and exisiting data to consolidate, declutter or remove content. Some of the key actions were to reduce long form body copy, produce more guiding headings, short copy that drives call to action and more task-focused content. As a result, we defined a simple and intuitive navigation and presented content strategy for the new website.
+            After mapping out all the content, I teamed up with a copywriter and leverage learnings from the discovery phase and existing data to consolidate, declutter, and remove content. Some of the key actions were to reduce long form body copy, produce more guiding headings, short copy that drives call to action, and more task-focused content. As a result, we defined a simple and intuitive navigation and presented content strategy for the new website.
         </p>
         <img class="project-images-img" src="/assets/projects/ceoso_/f_ceoso_f.jpg" alt="image" />
+        
         <p class="project-content-verbose">
-        <strong>Overcoming the challenge/Communicating designs:</strong>
+            <strong>Idea generation.</strong>
         </p>
         <p class="project-content-verbose">
-            The biggest challenge I faced throughout this project was balancing moving forward with designs, whilst collaborating with the wider team. Since this project touched many parts of the organisation, I needed to coordinate and get buy‐in from national teams and state coordinators that were both co‐located and distributed.
+            This is the fun part of design. There are many ways of generating ideas but there are three things that I always try to do: generate numerous ideas, be creative with no limitations and question everything. Keeping this in mind I sketched my ideas and grouped them into themes. I also ran a fun workshop with the stakeholders. I asked them to visualise their own ideas without regard to constraints. It's not only that it gave me a new perspective, but also made them feel closer to the solution that could utilize some of their creative thinking.
+        </p>
+        <img class="project-images-img" src="/assets/projects/ceoso_/l_ceoso_l.jpg" alt="image" />
+        <p class="img-caption">
+            Stakeholder's sketches - it's always fun to empower people to get out of their comfort zone.
+        </p> 
+        <p class="project-content-verbose">
+            <strong>Pen and paper.</strong>
+        </p>
+        <img class="project-images-img" src="/assets/projects/ceoso_/m_ceoso_m.jpg" alt="image" />
+        <p class="img-caption">
+            Sketching different ideas helped me define best solutions and key features.
+        </p>
+        <p class="project-content-verbose">    
+            The key objective during prioritization was to balance customer and business goals while still keeping it feasible.
+        </p>    
+        <img class="project-images-img-25" src="/assets/projects/ceoso_/e_ceoso_e.jpg" alt="image" />
+        <p class="project-content-verbose">
+        <strong>Overcoming the challenge/Communicating designs.</strong>
         </p>
         <p class="project-content-verbose">
-            Managing feedback was even more challenging trying to accomodate different viewpoints. To overcome this challenge we decided to consolidate feedback that from now on was prioritised and presented to us by the product owner only.
+            The biggest challenge I faced throughout this project was balancing moving forward with designs, whilst collaborating with the wider team. Since this project touched on many parts of the organisation, I needed to coordinate and get buy‐in from national teams and state coordinators that were both co‐located and distributed.
+        </p>
+        <p class="project-content-verbose">
+            Managing feedback was even more challenging trying to accommodate different viewpoints. To overcome this challenge we decided to consolidate feedback that from now on was prioritised and presented to us by the product owner only.
+        </p>
+        <p class="project-content-verbose">
+            <strong>Shared vision.</strong>
         </p>
         <p class="project-content-verbose">
             Design principles and the content prioritisation framework helped create visibility into my decision‐making process and galvanise the team to share in the vision. By the end of this phase we all had a clear understanding on the scope, features and we were confident that everyone is aligned on the vision and the product we’re going to build.
@@ -134,10 +183,10 @@ title: CEO Sleepout
         
         <img class="section-numbers" src="/assets/projects/ceoso_/3-implementation.jpg" alt="image" />
         <p class="project-content-verbose">
-            <strong>High fidelity, feedback from stakeholder, testing.</strong>    
+            <strong>High fidelity.</strong>    
         </p>
         <p class="project-content-verbose">
-            That’s when I started to make it all real by bringing the ideas to life. We ensured the team is in the loop and run fortnightly showcases where all national and state teams could participate and see the progress on the designs.
+            That’s when I made it all real by bringing the ideas to life. We ensured the team is in the loop and run fortnightly showcases where all national and state teams could participate and see the progress on the designs.
         </p>
         <img class="project-images-img" src="/assets/projects/ceoso_/h_ceoso_h.gif" alt="image" />
         <p class="project-content-verbose">
