@@ -148,7 +148,7 @@ title: CEO Sleepout
         </p>
         <img class="project-images-img" src="/assets/projects/ceoso_/l_ceoso_l.jpg" alt="image" />
         <p class="img-caption">
-            Stakeholder's sketches - it's always fun to empower people to get out of their comfort zone.
+            Stakeholders sketches - it's always fun to empower people to get out of their comfort zone.
         </p> 
         <p class="project-content-verbose">
             <strong>Pen and paper.</strong>
