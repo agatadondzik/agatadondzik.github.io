@@ -139,7 +139,7 @@ title: Bank
         </p>
         <img class="project-images-img" src="/assets/projects/bank_/f_bank.jpg" alt="image" />
         <p class="img-caption">
-            Detailed plan showing scenario when a customer can afford a house, but with a few adjustments.
+            Detailed plan showing a scenario when the customer can afford a house, but with a few adjustments.
         </p>
         <p class="project-content-verbose">
             As the objective was to show an end-to-end experience involving different channels, I mapped out how digital can assist before, during and after auction. 
