@@ -526,6 +526,14 @@ ul.dashed > li:before {
     margin-top: 5%;
     margin-bottom: 5%;
 }
+
+@media (max-width: 768px) {
+    
+    .project-images-img-50 {
+        width: 100%;
+    }  
+}
+
 .project-images-img-25 {
     display: block;
     width: 25%;
