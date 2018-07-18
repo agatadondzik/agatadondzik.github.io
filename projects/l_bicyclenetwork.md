@@ -64,7 +64,7 @@ title: Bicycle Network
             As a first step I performed a number of activities to help me immerse in the project, understand the context and identify participants goals.   
         </p>
         <p class="project-content-verbose">
-            One of the most interesting activities throughout this phase was learning about different types of riders, their divergent safety concerns and confidence on the road. After analysing provided data, user behaviour and running a prioritisation session we agreed on our main target audience and their goals.
+            One of the most insightful activities throughout this phase was learning about different types of riders. After analysing provided user data, behaviour on the road and running a persona session with the client I gathered enough insights to identify their motivations, challenges, and divergent level of safety concerns. It allowed me to formulate a solution that is based on in-depth understanding of the users and effectively supports them in gaining confidence on the road.
         <img class="project-images-img" src="/assets/projects/bicyclenetwork_/b_bn_b.jpg" alt="image" />
         </p>
         <p class="project-content-verbose">
@@ -82,10 +82,10 @@ title: Bicycle Network
         <strong>Bringing simplicity to complexity.</strong>
         </p>
         <p class="project-content-verbose">
-            In order to define and agree on the content I performed an audit of the existing website. It happened to be a beginning of the most challenging part of the project. The organisation is very active and frequently publishes updates to keep their members in the loop about their initiatives, petitions and government grants. However outdated content was never properly managed or archived. That created hundreds of unrelated pages and links including posts and petitions that were rarely viewed and rather hard to access. I mapped out all the content, analysed and compared against user goals and business values in order to consolidate or remove.
+            In order to define and agree on the content I performed an audit of the existing website. It happened to be a beginning of the most challenging part of the project. The organisation is very active and frequently publishes updates to keep their members in the loop about their initiatives, petitions and government grants. However, the outdated content was never properly managed or archived. That created hundreds of unrelated pages and links including posts and petitions that were rarely viewed and rather hard to access. I mapped out all the content, analysed and compared against user goals and business values in order to consolidate or remove.
         </p>
         <p class="project-content-verbose">    
-            As a result, we significantly reduced a number of pages and proposed a new, more intuitive information architecture.  
+            As a result, I significantly reduced a number of pages and proposed a new, more intuitive information architecture.  
         </p>
         <img class="project-images-img" src="/assets/projects/bicyclenetwork_/d_bn_d.jpg" alt="image" />
         <p class="project-content-verbose">

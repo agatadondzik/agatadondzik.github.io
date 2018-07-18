@@ -153,7 +153,7 @@ title: Bank
         <strong>Roadmap.</strong>
         </p>
         <p class="project-content-verbose">
-            The final section shows the upcoming projects and intitatives and indicate any dependencies that can be resolved after gaining the alignment. 
+            The final section shows the upcoming projects and initiatives and indicate any dependencies that can be resolved after gaining the alignment. 
         </p>
         <img class="project-images-img" src="/assets/projects/bank_/i_bank.jpg" alt="image" />       
         <p class="project-content-verbose">

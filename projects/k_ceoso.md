@@ -136,7 +136,7 @@ title: CEO Sleepout
             <strong>Building content structure.</strong>
         </p>
         <p class="project-content-verbose">
-            After mapping out all the content, I teamed up with a copywriter and leverage learnings from the discovery phase and existing data to consolidate, declutter, and remove content. Some of the key actions were to reduce long form body copy, produce more guiding headings, short copy that drives call to action, and more task-focused content. As a result, we defined a simple and intuitive navigation and presented content strategy for the new website.
+            After mapping out all the content, I teamed up with a copywriter and leveraged learnings from the discovery phase and existing data to consolidate, declutter, and remove content. Some of the key actions were to reduce long form body copy, produce more guiding headings, short copy that drives call to action, and more task-focused content. As a result, we defined a simple and intuitive navigation and presented content strategy for the new website.
         </p>
         <img class="project-images-img" src="/assets/projects/ceoso_/f_ceoso_f.jpg" alt="image" />
         
