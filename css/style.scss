@@ -569,7 +569,7 @@ ul.dashed > li:before {
     }
 }
 
-.grid-item .overlays {
+.overlays {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -580,9 +580,10 @@ ul.dashed > li:before {
   opacity: 0;
   transition: .5s ease;
   background-color: #2A2C29;
+  display: none;
 }
 
-.grid-item .overlays:hover {
+.overlays:hover {
   opacity: 0.9;
 }
 

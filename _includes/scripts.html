@@ -3,6 +3,7 @@
 <script type="text/javascript">
     // init Masonry after all images have loaded
     var $grid = $('.grid').imagesLoaded( function() {
+      $('.overlays').css({'display' : 'block'});
       $grid.masonry({
         itemSelector: '.grid-item',
         percentPosition: true,
