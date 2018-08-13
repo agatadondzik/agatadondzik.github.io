@@ -44,11 +44,8 @@ title: MCRI
 
 <!-- Project Images Section -->
 <div id="#projectImages" class="container project-container-images">
-    <div class="project-images">  
-        <img class="project-images-img-25" src="/assets/projects/mcri_/a_heart_a.jpg" alt="image" />
-        <p class="img-caption">
-            Heart diseases.
-        </p>
+    <div class="project-images">
+        <img class="project-images-img" src="/assets/projects/mcri_/h_heart.gif" alt="image" />
     </div>
     <div class="project-images">   
         <img class="project-images-img-25" src="/assets/projects/mcri_/b_peanut_b.jpg" alt="image" />
@@ -74,6 +71,10 @@ title: MCRI
         <img class="project-images-img-25" src="/assets/projects/mcri_/g_kidney_g.jpg" alt="image" />
         <p class="img-caption">
             Kidney Issues.
+        </p>
+        <img class="project-images-img-25" src="/assets/projects/mcri_/a_heart_a.jpg" alt="image" />
+        <p class="img-caption">
+            Heart diseases.
         </p>
     </div>
 </div>

@@ -21,6 +21,7 @@ title: BlueJay Music App
         <div class="col-sm-3 col-md-3">
             <h1 class="project-header">Client.</h1>
             <p class="project-content">BlueJay Music App.</p>
+            <img class="project-content-fancy-img" src="/assets/projects/bluejay_/i_bluejay_i.png" alt="image" />
         </div>
         <div class="col-sm-1 col-md-1"></div>
         <div class="col-sm-6 col-md-6">
@@ -58,21 +59,21 @@ title: BlueJay Music App
 <!-- Project Images Section -->
 <div id="#projectImages" class="container project-container-images">
     <div class="project-images">
-        
+         
         <img class="section-numbers" src="/assets/projects/bluejay_/1.jpg" alt="image" />
         <p class="project-content-verbose">
             Based on the exisiting research and insights I defined two key users of the app:
         </p>
         <ol class="project-content-verbose">
-            <li>Host - a person who wants to share their music and gain insights from the followers.</li>
-            <li>Listener - a person who wants to discover new music or listen to friend’s playlist and interact with it.</li>
+            <li><strong>Host</strong> - a person who wants to share their music and gain insights from the followers.</li>
+            <li><strong>Listener</strong> - a person who wants to discover new music or listen to friend’s playlist and interact with it.</li>
         </ol>
         <p class="project-content-verbose">
             I mapped out both flows:
         </p>
         <img class="project-images-img" src="/assets/projects/bluejay_/a_bluejay_a.jpg" alt="image" />
         <p class="project-content-verbose">
-            And prioritised their needs based on use cases following “I want to… so that I can…” structure
+            And prioritised their needs based on scenarios following “I want to… so that I can…” structure for both personas.
         </p>
         <img class="project-images-img" src="/assets/projects/bluejay_/b_bluejay_b.jpg" alt="image" />
         <p class="project-content-verbose">
@@ -108,13 +109,30 @@ title: BlueJay Music App
         <img class="project-images-img" src="/assets/projects/bluejay_/e_bluejay_e.jpg" alt="image" />
         
         <img class="section-numbers" src="/assets/projects/bluejay_/5.jpg" alt="image" />
+        <img class="project-images-img" src="/assets/projects/bluejay_/j_bluejay_j.jpg" alt="image" />
+        <p class="img-caption">
+            "Add to playlist" feature - before and after redesign.
+        </p>
         <p class="project-content-verbose">
-            And that's how the final solution looks like:
+            And that's how selected screens of the final solution look like.
+        </p>
+        <p class="project-content-verbose">
+            <strong>For host:</strong>
         </p>
         <img class="project-images-img" src="/assets/projects/bluejay_/f_bluejay_f.jpg" alt="image" />
-        <p class="project-content-verbose">
-            As a last step before handing over the designs to developers I proposed a number of interactions in order to enhance overall experience.
+        <p class="img-caption">
+            (Left) Create session. (Center) Reshuffle/remove. (Right) Dashboard.
         </p>
-        <img class="project-images-img" src="/assets/projects/bluejay_/g_bluejay_g.gif" alt="image" />
+        <p class="project-content-verbose">
+            <strong>For listener:</strong>
+        </p>
+        <img class="project-images-img" src="/assets/projects/bluejay_/g_bluejay_g.jpg" alt="image" />
+        <p class="img-caption">
+            (Left) Browse live playlists. (Center) Listen and interact with a playlist. (Right) Search.
+        </p> 
+        <p class="project-content-verbose">
+            As a last step, before handing over the designs to developers, I proposed a number of interactions in order to enhance overall experience.
+        </p>
+        <img class="project-images-img" src="/assets/projects/bluejay_/h_bluejay_h.gif" alt="image" />
     </div>
 </div>
