@@ -104,6 +104,10 @@ title: Bank
         <p class="project-content-verbose">
             The prototype was built as an animated end-to-end journey through different channels. I will only present selected sections that play key role in the overall experience.
         </p>
+        <img class="project-images-img" src="/assets/projects/bank_/k_bank.jpg" alt="image" />
+        <p class="img-caption">
+            High level flow through the experience on different channels.
+        </p>
         <p class="project-content-verbose">
             As I learned during discovery phase, customers spend significant time discovering and considering different products using a range of channels. That’s why as a starting point I introduced an idea of an integration with 3rd party apps. Bank’s widget will present more accurate repayments, remember favourited options, and provide next steps.
         </p>
