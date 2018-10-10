@@ -48,7 +48,7 @@ title: CEO Sleepout
             </p>
             <h1 class="project-header">My role.</h1>
             <p class="project-content">
-                I led the discovery and research phase, helped prioritise functionality and content, facilitated ideation sessions and workshops as well as led design execution of the project including sketching, prototyping, and producing final designs. Additionally, I presented works to gain buy‐in from stakeholders throughout the project lifecycle.
+                I was a lead designer of the project working closely with a team of engineers and a copywriter. I led end-to-end product design including research, interaction design, and design execution. Additionally, I facilitated workshops and presented works to gain buy‐in from stakeholders throughout the project lifecycle.
             </p>
            <h1 class="project-header">Solution.</h1>
             <p class="project-content">
