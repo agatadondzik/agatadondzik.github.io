@@ -62,7 +62,7 @@ title: CEO Sleepout
                 <strong>Results:</strong><br>
                 59% uplift in average donation amount.<br>
                 29% uplift in conversion rate.<br>
-                118% uplift in transactions.
+                Total uplift of <strong>1.3 million dollars</strong> compared to last year's effort.
             </p>
         </div>
         <div class="col-sm-1 col-md-1"></div>
